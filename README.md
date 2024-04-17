@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am Adeoye Oyekola. I am a Digital Marketer specializing in Marketing Campaign Management and Visual Designs.
+I am an aspiring Frontend Web Developer with REACT.JS.
+You can reach me on <a href="https://www.linkedin.com/in/adeoye-oyekola/">LinkedIn.</a>
 
 <!--
 **adeoye93/adeoye93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
